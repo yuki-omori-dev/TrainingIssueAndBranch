@@ -1,0 +1,2 @@
+# TrainingIssueAndBranch
+issueやbranchの機能を使う練習。設計や開発をチームで行う訓練
